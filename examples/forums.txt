@@ -1,0 +1,4 @@
+# Public examples for testing, not an advertising recommendation.
+https://xenforo.com/community/
+https://www.phpbb.com/community/
+https://meta.discourse.org/
